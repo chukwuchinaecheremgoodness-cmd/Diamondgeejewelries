@@ -1,2 +1,76 @@
-# Diamondgeejewelries
-Diamondgee jewelries official website (optional)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Diamondgee Jewelries</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>💎 Diamondgee Jewelries</h1>
+    <p>Luxury Jewelry | Rings | Chains | Watches | Bracelets</p>
+
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#shop">Shop</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+    </nav>
+</header>
+
+<section id="home" class="hero">
+    <h2>Elegance You Can Afford</h2>
+    <p>Premium jewelry for every occasion.</p>
+
+    <a href="https://wa.me/2348145913496">
+        <button>Shop on WhatsApp</button>
+    </a>
+</section>
+
+<section id="shop">
+    <h2>Featured Products</h2>
+
+    <div class="card">
+        <h3>Luxury Ring</h3>
+        <p>Premium Quality</p>
+    </div>
+
+    <div class="card">
+        <h3>Gold Necklace</h3>
+        <p>Elegant Design</p>
+    </div>
+
+    <div class="card">
+        <h3>Luxury Watch</h3>
+        <p>Original Collection</p>
+    </div>
+</section>
+
+<section id="about">
+    <h2>About Us</h2>
+    <p>Diamondgee Jewelries is based in Aba, Nigeria. We provide high-quality jewelry with excellent customer service.</p>
+</section>
+
+<section id="contact">
+    <h2>Contact Us</h2>
+
+    <p>📞 08170067968</p>
+    <p>📞 08145913496</p>
+    <p>📧 chukwuchinaecheremgoodness@gmail.com</p>
+    <p>📍 Aba, Nigeria</p>
+
+    <a href="https://www.tiktok.com/@diamondgeejewelries" target="_blank">
+        <button>Follow us on TikTok</button>
+    </a>
+</section>
+
+<footer>
+    <p>© 2026 Diamondgee Jewelries. All rights reserved.</p>
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
