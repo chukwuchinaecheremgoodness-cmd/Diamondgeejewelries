@@ -1,13 +1,11 @@
-// Diamondgee Jewelries Website
-
 document.addEventListener("DOMContentLoaded", function () {
-    alert("💎 Welcome to Diamondgee Jewelries!");
+    alert("Welcome to Diamondgee Jewelries!");
 
-    const searchButton = document.querySelector(".search button");
+    const buttons = document.querySelectorAll(".product a");
 
-    if (searchButton) {
-        searchButton.addEventListener("click", function () {
-            alert("Search feature coming soon!");
+    buttons.forEach(button => {
+        button.addEventListener("click", function () {
+            console.log("Customer clicked Order on WhatsApp");
         });
-    }
+    });
 });
