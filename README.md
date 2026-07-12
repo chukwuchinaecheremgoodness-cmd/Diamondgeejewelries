@@ -19,7 +19,7 @@
       <img src="https://via.placeholder.com/220x220?text=Ring" alt="Ring">
       <h3>Luxury Ring</h3>
     </div>
-
+<img src="images/0478060c-f8b4-4ff6-8ba6-e0a95808a7b7.jpeg" alt="Diamondgee Luxury Jewelry">
     <div class="product">
       <img src="https://via.placeholder.com/220x220?text=Necklace" alt="Necklace">
       <h3>Diamond Necklace</h3>
@@ -56,3 +56,4 @@ section class="contact">
   <p>📞 WhatsApp: +234 814 591 3496</p>
   <p>📧 Email: diamondgeejewelries@gmail.com</p>
   <p>📍 Nigeria</p>
+  
