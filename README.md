@@ -1,19 +1,16 @@
 
-</head>
-<h1>💎 Welcome to Diamondgee Jewelries</h1>
+
+💎 Welcome to Diamondgee Jewelries</h1>
 
 <p>Discover premium rings, necklaces, bracelets, watches, and more.</p>
 <a href="https://wa.me/2348145913496">
   <button>Shop Now on WhatsApp</button>
-</a>
 <nav>
-  <a href="#">🏠 Home</a>
-  <a href="#">💍 Shop</a>
-  <a href="#">ℹ️ About</a>
-  <a href="#">📞 Contact</a>
-</nav>
-</body>
-</html>
+  href="#">🏠 Home
+  href="#">💍 Shop
+  href="#">ℹ️ About
+ href="#">📞 Contact
+
 <section class="gallery">
   <h2>Our Collection</h2>
 
@@ -50,8 +47,8 @@
 
   <section id="about" class="reviews">
     <p>"Fast delivery and amazing quality." ⭐⭐⭐⭐⭐</p>
-    <strong>- Michael</strong>
-  </div>
+    
+  
 </section>
 section class="contact">
   <h2>Contact Us</h2>
